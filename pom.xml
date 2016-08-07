@@ -5,7 +5,7 @@
 
     <repositories>
         <repository>
-            <id>dianping.repo</id>
+            <id>central</id>
             <name>Central Repository</name>
             <url>http://repo.maven.apache.org/maven2</url>
             <layout>default</layout>
